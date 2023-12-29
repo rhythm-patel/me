@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rhythm Patel</title>
+    <link>https://rhythm-patel.github.io/me/</link>
+    <description>Recent content on Rhythm Patel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://rhythm-patel.github.io/me/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
