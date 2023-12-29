@@ -1,3 +1,14 @@
-baseURL: https://example.org/
+baseURL: https://rhythm-patel.github.io/me/
 languageCode: en-us
-title: My New Hugo Site
+title: Rhythm Patel
+theme: "PaperMod"
+
+params:
+    profileMode:
+        enabled: true
+        title: Rhythm Patel
+        subtitle: Software Engineer at Bloomberg, London.
+
+    socialIcons:
+        - name: linkedIn
+          url: https://www.linkedin.com/in/rhythm-patel/
